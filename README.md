@@ -1,4 +1,4 @@
-# ConjeturaDeCollatzç
+# ConjeturaDeCollatz
 
 #Datos cuyos valores dan negativos a partir de :
 
